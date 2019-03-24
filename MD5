@@ -1,0 +1,16 @@
+7c3c56d06e4b7d1273edfee9775e582a *DESCRIPTION
+8b8241f205faaa7ca1f44813de198003 *LICENSE
+fcee53205cebde580d658d12ba1a336a *NAMESPACE
+653a3c70293c16db4fb9bab94995f3e3 *NEWS.md
+cb99eeda0b4126cc077600e171b8fae8 *R/legocolors.R
+27bd460c11aa027ea37ae38b6946ed16 *R/mapping.R
+d33564f27cfbd1befe513ba3f7c88705 *README.md
+e1e06768238336019c3b0b678a158bd0 *data/legocolors.rda
+2f30a6159c02d8cb3e88362ecf8505d6 *data/legopals.rda
+d4c43e5a061cffe1b0cb899318236a56 *inst/WORDLIST
+c3f387d50b809877963613ce699076d4 *man/figures/logo.png
+812eb2e842716129d6110223a38f00d4 *man/legocolor.Rd
+0aa489913d37614f09959011ac565db6 *man/legocolors.Rd
+7b070103e8ef811ff7d1606cc3c0f53b *man/legopals.Rd
+2d1d0c14954a2e355e7a51cfdc0c7a50 *tests/testthat.R
+6384c02fd889aacba6e0aaee0252b035 *tests/testthat/test-mapping.R
